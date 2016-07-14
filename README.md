@@ -1,2 +1,3 @@
 # trabajar
 Aprender a usar GitHub Desktop
+Es algo sencillo para crear una archivo ...
